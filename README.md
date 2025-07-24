@@ -19,8 +19,8 @@ This project explores the impact of **playlist and chart placement** on song str
 
 > See `notebooks/playlist_marketing_insights.ipynb` and `/visuals` for visuals.
 
-### 📍 Tableau Dashboard (Optional)
-[🔗 Click to view dashboard](#) *(replace with Tableau Public link)*
+### 📍 Tableau Dashboard
+(https://public.tableau.com/app/profile/noli.angeles/viz/spotify_streaming_dashboard/PlaylistStrategy)
 
 ### 🛠️ Tools Used
 - Python (Pandas, Seaborn, Matplotlib)
